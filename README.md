@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on camera-tracking interactions with tensorflow.js!
+- ⚡ Fun fact: my profile pic is my paperclay craft ;)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=cy-moi&show_icons=true&theme=radical)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&show_icons=true&theme=radical)
+
 <!--
 **cy-moi/cy-moi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
