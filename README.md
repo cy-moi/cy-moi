@@ -7,7 +7,7 @@
 
 
 <!--
-![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&layout=compact&hide=html.css&show_icons=true&theme=radical)
 -->
 
 <!--
