@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on camera-tracking interactions with tensorflow.js!
 - ⚡ Fun fact: my profile pic is my handmade craft ;)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=cy-moi&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=cy-moi&layout=compact&hide=html,css&show_icons=true&theme=radical)
 
 
 <!--
-![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&layout=compact&hide=html.css&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&show_icons=true&theme=radical)
 -->
 
 <!--
