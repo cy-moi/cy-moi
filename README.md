@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on camera-tracking interactions with tensorflow.js!
-- ⚡ Fun fact: my profile pic is my handmade craft ;)
-
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=cy-moi&show_icons=true&theme=radical)
